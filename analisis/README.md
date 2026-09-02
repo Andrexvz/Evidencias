@@ -1,3 +1,3 @@
 # Análisis
 
-This folder contains analysis and planning documents related to the training activities. Use it for needs analysis, objectives, lesson plans, and other preparatory material.
+Carpeta para documentos de análisis y planificación relacionados con las actividades de formación. Úsala para análisis de necesidades, objetivos, programas, guías de sesión y cualquier material preparatorio.
