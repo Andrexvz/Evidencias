@@ -1,12 +1,12 @@
 # Evidencias
 
-This repository stores training evidence organized into four main folders: `analisis`, `ejecucion`, `desarrollo`, and `evaluacion`.
+Repositorio para almacenar las evidencias de las actividades de formación. La estructura contiene exactamente cuatro carpetas principales en la raíz: `analisis`, `ejecucion`, `desarrollo` y `evaluacion`.
 
-Folder structure (top-level):
+Estructura (nivel superior):
 
-- analisis/ — analysis and planning documents.
-- ejecucion/ — evidence of execution (each instructor has a subfolder).
-- desarrollo/ — development or learning artifacts.
-- evaluacion/ — evaluation and grading materials.
+- analisis/ — Documentos de análisis y planificación.
+- ejecucion/ — Evidencias de ejecución: subir los archivos de evidencia directamente en esta carpeta; NO crear subcarpetas por instructor.
+- desarrollo/ — Materiales y artefactos de aprendizaje y desarrollo.
+- evaluacion/ — Materiales relacionados con evaluación y calificación.
 
-See each folder's README for details.
+Consulta el README de cada carpeta para más detalles.
